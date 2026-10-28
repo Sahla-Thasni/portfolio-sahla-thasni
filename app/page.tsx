@@ -57,7 +57,7 @@ export default function Home() {
         <p className="hero-name">I&apos;m Sahla Thasni</p>
         <h1 className="hero-title"><span className="hero-line-serif">Full stack</span><span className="hero-line-condensed">DEVELOPER.</span></h1>
         <p className="hero-intro">I create responsive, user-friendly web applications with clean interfaces and scalable backend solutions.</p>
-        <div className="hero-actions"><MagneticLink className="button-primary" href="#projects">See projects <span aria-hidden="true">&#x2198;</span></MagneticLink><MagneticLink className="button-secondary resume-button" href="/resume.pdf" download>Download Resume <span aria-hidden="true">&#x2193;</span></MagneticLink><MagneticLink className="button-secondary" href="#contact">Contact me <span aria-hidden="true">&#x2197;</span></MagneticLink></div>
+        <div className="hero-actions"><MagneticLink className="button-primary" href="#projects">See projects <span aria-hidden="true">&#x2198;</span></MagneticLink><MagneticLink className="button-secondary resume-button" href="/Sahla_Thasni_Resume.pdf" download>Download Resume <span aria-hidden="true">&#x2193;</span></MagneticLink><MagneticLink className="button-secondary" href="#contact">Contact me <span aria-hidden="true">&#x2197;</span></MagneticLink></div>
       </div>
       <div className="hero-bottomline mono-label"><span>React &#xB7; Next.js &#xB7; TypeScript &#xB7; Django &#xB7; PostgreSQL</span></div>
     </section>
